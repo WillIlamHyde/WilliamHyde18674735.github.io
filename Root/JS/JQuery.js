@@ -1,0 +1,1 @@
+$(document).ready(function(){$("body").css({'background-image:url("../Assets/home.jpg")'})});

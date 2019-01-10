@@ -1,0 +1,9 @@
+window.onload = function(){
+	init();
+}
+function (){}
+//Local storage
+function Hoodie(){
+	window.localStorage.setItem("name","will");
+	console.log(localStorage);
+}
